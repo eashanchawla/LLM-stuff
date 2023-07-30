@@ -1,6 +1,6 @@
-# LLM-stuff
+# GPT
 
-Experimenting with conversation / LLM-stuff
+Creating this for my experiments with GPT
 
-- inferencing on CPU with LLAMA2
+
 - simple_chat_bot: A simple terminal based bot to assign GPT a role and ask it questions
